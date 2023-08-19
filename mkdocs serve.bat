@@ -1,0 +1,2 @@
+cd ./ghp
+mkdocs serve 
